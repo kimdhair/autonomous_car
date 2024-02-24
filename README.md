@@ -12,7 +12,7 @@
   - 차선 인식
   - 횡단보도 인식
   - PID 제어
-
+https://github.com/kimdhair/autonomous_car/blob/main/%EC%BD%94%EC%8A%A4%20%EB%B0%8F%20%EC%99%84%EC%84%B1%EC%82%AC%EC%A7%84/outside_car.jpg?raw=true
 ## 2. 데이터 수집 및 모델 제작
 - 데이터 수집 및 라벨링
   - openCV를 활용해 각 상황에 대한 데이터에 라벨링을 붙여 직점 수집 (231개)
