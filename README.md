@@ -28,3 +28,6 @@
   - 라즈베리파이 4B+, 파이 카메라 OV5647, 모터 드라이버 L9110S를 이용하여 제작
 - 통신
   - SSH 통신을 이용해 라즈베리 파이와 통신 환경 구축
+
+## 4. 시연 영상 링크
+https://drive.google.com/file/d/1pmVItlkeg6JMmfP2Wy0x7VWMdyAWHmYB/view
