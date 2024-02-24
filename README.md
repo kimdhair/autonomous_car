@@ -13,7 +13,7 @@
   - 횡단보도 인식
   - PID 제어
 
-<img src = "https://github.com/kimdhair/autonomous_car/blob/main/%EC%BD%94%EC%8A%A4%20%EB%B0%8F%20%EC%99%84%EC%84%B1%EC%82%AC%EC%A7%84/outside_car.jpg?raw=true" width="30%"><img src = "https://github.com/kimdhair/autonomous_car/blob/main/%EC%BD%94%EC%8A%A4%20%EB%B0%8F%20%EC%99%84%EC%84%B1%EC%82%AC%EC%A7%84/outside_car.jpg?raw=true" width="30%"></img>
+<img src = "https://github.com/kimdhair/autonomous_car/blob/main/%EC%BD%94%EC%8A%A4%20%EB%B0%8F%20%EC%99%84%EC%84%B1%EC%82%AC%EC%A7%84/outside_car.jpg?raw=true" width="30%"><img src = "https://github.com/kimdhair/autonomous_car/blob/main/%EC%BD%94%EC%8A%A4%20%EB%B0%8F%20%EC%99%84%EC%84%B1%EC%82%AC%EC%A7%84/inside_car.jpg?raw=true" width="30%"></img>
 
 ## 2. 데이터 수집 및 모델 제작
 - 데이터 수집 및 라벨링
